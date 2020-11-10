@@ -307,7 +307,7 @@ public class CustomerWorkSheet {
   /**
    * <pre>
   
-   * &#64;effects
+   * @effects
    *       if objects is empty
    *         return "empty"
    *       else
