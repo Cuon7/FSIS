@@ -303,10 +303,7 @@ public class CustomerWorkSheet {
     objects = new SortedSet();
     engine = new Engine();
   }
-
-  /**
-   * <pre>
-  
+   
    * @effects
    *       if objects is empty
    *         return "empty"
