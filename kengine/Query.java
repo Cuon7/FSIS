@@ -252,8 +252,8 @@ public class Query {
 	 *  else
 	 *      return a generator that will generate all items of Query.matches in arbitrary order
 	 *      each one
-	 * &#64;throws NotPossibleException
-	 * &#64;return
+	 *  throws NotPossibleException
+	 *  return
 	 *         </pre>
 	 */
 	public Iterator matchIterator() {
